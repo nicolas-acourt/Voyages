@@ -1,0 +1,38 @@
+header{
+    background-color: rgb(73, 172, 230);
+}
+
+h1{
+    padding:5% 5% 2%;
+    text-align: center;
+    color:white;
+    font-size: 100px;
+}
+
+
+
+body{
+    background-image:url('https://cdn-s-www.ledauphine.com/images/1451BFB9-4185-4218-963F-F07634E33794/NW_raw/les-500-employes-vont-recevoir-deux-billets-d-avion-en-premiere-classe-chacun-et-un-gros-cheque-pour-faire-de-leur-sejour-un-souvenir-inoubliable-free-photos-de-pixabay-1635243680.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    margin:0;
+    flex-direction: column;
+}
+
+nav{
+    height: 50px;
+    background-color: orange;
+}
+
+
+footer{
+    background-color: rgb(58, 58, 58);
+}
+
+.Pays{
+    background-color: white;
+}
+
+#choix-pays{
+    padding:5%;
+}
