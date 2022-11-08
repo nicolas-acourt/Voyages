@@ -1,9 +1,12 @@
 header{
     background-color: rgb(73, 172, 230);
+    background-image:url('https://img.freepik.com/premium-photo/wide-banner-wonderful-sky-with-lot-beautiful-small-clouds-creative-sky-background-with-copy-space-trendy-toning-color-2022-year-very-peri_121867-1306.jpg?w=1480');
+    background-size: cover;
+    margin:0;
 }
 
 h1{
-    padding:5% 5% 2%;
+    padding:0% 5% 2%;
     text-align: center;
     color:white;
     font-size: 100px;
@@ -16,23 +19,43 @@ body{
     background-attachment: fixed;
     background-size: cover;
     margin:0;
-    flex-direction: column;
+  
 }
 
 nav{
     height: 50px;
-    background-color: orange;
+    background-color: #DEDEF9;
 }
 
 
 footer{
     background-color: rgb(58, 58, 58);
+    color:white;
+}
+
+
+#choix-pays{
+    display: flex;
+    flex-direction: column ;
+    padding:5%; 
+    gap: 100px; 
+      
 }
 
 .Pays{
     background-color: white;
 }
 
-#choix-pays{
-    padding:5%;
+#martinique{
+    background-image:url('https://api.ellequebec.com/app/uploads/2022/05/Martinique.header.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
+}
+
+#Londres{
+    background-image:url('https://www.idiomastravel.com/wp-content/uploads/2017/07/banner-londres.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
 }

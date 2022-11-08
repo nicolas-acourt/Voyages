@@ -40,7 +40,7 @@
                 <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
                     <mxGeometry x="630" y="940" width="180" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="&lt;span&gt;Menu&lt;/span&gt;&lt;br&gt;&lt;span&gt;déroulant&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+                <mxCell id="16" value="&lt;span&gt;Menu&lt;/span&gt;&lt;br&gt;&lt;span&gt;déroulant&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
                     <mxGeometry x="140" y="240" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>

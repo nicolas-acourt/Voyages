@@ -1,0 +1,12 @@
+header{
+    background-image:url('https://www.idiomastravel.com/wp-content/uploads/2017/07/banner-londres.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
+    padding:15%
+}
+
+body{
+    margin:0;
+    background-color: #DBB6A3
+}
