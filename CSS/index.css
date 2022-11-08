@@ -1,5 +1,5 @@
+/* Image d'acceuil */
 header{
-    background-color: rgb(73, 172, 230);
     background-image:url('https://img.freepik.com/premium-photo/wide-banner-wonderful-sky-with-lot-beautiful-small-clouds-creative-sky-background-with-copy-space-trendy-toning-color-2022-year-very-peri_121867-1306.jpg?w=1480');
     background-size: cover;
     margin:0;
@@ -13,7 +13,7 @@ h1{
 }
 
 
-
+/* Fond de la page */
 body{
     background-image:url('https://cdn-s-www.ledauphine.com/images/1451BFB9-4185-4218-963F-F07634E33794/NW_raw/les-500-employes-vont-recevoir-deux-billets-d-avion-en-premiere-classe-chacun-et-un-gros-cheque-pour-faire-de-leur-sejour-un-souvenir-inoubliable-free-photos-de-pixabay-1635243680.jpg');
     background-attachment: fixed;
@@ -23,12 +23,14 @@ body{
 }
 
 nav{
-    height: 50px;
+    height: 40px;
     background-color: #DEDEF9;
+    color: black;
 }
 
 
 footer{
+    padding: 20px;
     background-color: rgb(58, 58, 58);
     color:white;
 }
@@ -44,10 +46,20 @@ footer{
 
 .Pays{
     background-color: white;
+    opacity: 0.5;
+}
+a:link{
+    color:black;
+    text-decoration: none;
 }
 
-#martinique{
-    background-image:url('https://api.ellequebec.com/app/uploads/2022/05/Martinique.header.jpg');
+a:visited{
+    color:black;
+    text-decoration: none;
+}
+
+#USA{
+    background-image:url('https://www.worldisavillage.com/wp-content/uploads/2020/04/USA_Worldisavillage-scaled.jpg');
     background-size: cover;
     background-attachment: fixed;
     margin:0;
@@ -59,3 +71,30 @@ footer{
     background-attachment: fixed;
     margin:0;
 }
+
+#martinique{
+    background-image:url('https://api.ellequebec.com/app/uploads/2022/05/Martinique.header.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
+}
+
+
+#Mexique{
+    background-image:url('https://www.francaisaletranger.fr/wp-content/uploads/2022/08/Mexique.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
+}
+
+#Montreal{
+    background-image:url('https://elviajerofeliz.com/wp-content/uploads/2019/07/montreal.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
+}
+
+
+
+
+
