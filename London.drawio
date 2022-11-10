@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="-ubHp2TSMHiLWYS_5Yv3" name="Page-1">
+        <mxGraphModel dx="1018" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+                    <mxGeometry width="830" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry y="290" width="830" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="monuments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="390" width="320" height="740" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="museum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="390" width="436" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="where to go&lt;br&gt;(other places)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="710" width="436" height="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#23445d;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="420" width="260" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#23445d;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="750" width="260" height="200" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
