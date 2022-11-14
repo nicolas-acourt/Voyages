@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
+/*font-family: 'Kolker Brush', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+/*font-family: 'Indie Flower', cursive;*/
+
+titre{
+    font-family: 'Kolker Brush', cursive;
+    margin: 10px;
+    font-size: 150px;
+    color: #1f2a4d;
+}
+
+header{
+    background-image:url('https://planetofhotels.com/guide/sites/default/files/styles/paragraph__live_banner__lb_image__1880bp/public/live_banner/Martinique.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
+}
+
+body{
+    margin:0;
+    background: linear-gradient(#2369a4, #c99fc2);
+    
+}
+
+.sous a:link{
+    color:black;
+    text-decoration: none;
+}
+
+.sous a:visited{
+    color:black;
+    text-decoration: none;
+}
+
+.soustitre{
+    padding:0% 5% 2%;
+    text-align: right;
+    color:white;
+    font-size: 100px;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1{
+    padding:0% 5% 2%;
+    text-align: center;
+    color:white;
+    font-size: 132px;
+}
+
+h2{
+    padding:0% 5% 2%;
+    text-align: left;
+    color:white;
+    font-size: 30px;
+}
+
+#police{
+    font-size: 50px;
+    text-align: right;
+}
+
+#martinique{
+    background-image:url('https://www.transquadra.com/media/cache/w1500/uploads/etapes/martinique/10141.jpg');
+}
+
+#montagnepelee{
+    background-image:url('https://www.les-covoyageurs.com/ressources/images-lieux/1367-visiter-la-montagne-pelee-martinique.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
+}
+
+#lediamant{
+    background-image:url('https://kawanplongee.com/wp-content/uploads/2020/05/diamant-kawan-plongee2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
+}
+
+#tombolo{
+    background-image:url('https://media.routard.com/image/65/9/photo.1503659.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
+}
