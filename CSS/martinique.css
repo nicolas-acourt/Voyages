@@ -62,6 +62,9 @@ h2{
 
 #martinique{
     background-image:url('https://www.transquadra.com/media/cache/w1500/uploads/etapes/martinique/10141.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0;
 }
 
 #montagnepelee{
