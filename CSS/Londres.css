@@ -102,3 +102,11 @@ nav a:visited{
     font-size: 20px;
     font-weight: bold;
 }
+
+.pres{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    padding :2%;
+    background-color: #283A3C;
+}
